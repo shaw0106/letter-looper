@@ -1,7 +1,6 @@
 var aLetter = prompt('Type a letter into the box.');
+var counter;
 
-for (counter =var i = 0; i < 
-  do.length; i++) {
-
-  do[i]
+for (i = 0; i < totalPlanets; i++) {
+  // For-loop
 }
